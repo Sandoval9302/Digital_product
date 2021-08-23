@@ -1,0 +1,23 @@
+.TerminoYCondicones{
+    background-color: var(--balck-color);
+    text-align: center;
+    color: var(--white-color);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size:var(--normal);
+}
+
+.TerminoYCondicones a{
+    color: var(--white-color);
+}
+
+.TerminoYCondicones label{
+    font-size: 20px;
+}
+
+div h1 {
+    text-align: center;
+    font-size: 30px;
+}
+

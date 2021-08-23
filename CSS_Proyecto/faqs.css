@@ -1,0 +1,26 @@
+body{
+    background-color:var(--white-color);
+}
+
+.title-faqs{
+    padding: var(--space);
+    margin: 50px;
+    text-align: center;
+    justify-content: center;
+    font-size: 24px;
+}
+
+.question-faqs{
+    margin: 40px 20% 40px;
+    background-color: #f5f2f1;
+    padding: 30px;
+    border-radius: 20px;   
+}
+
+.question-faqs p, input{
+    font-size: 24px;
+}
+
+.Button-Sugerencias{
+    font-size: 20px;
+}
